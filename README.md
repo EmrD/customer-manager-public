@@ -1,6 +1,6 @@
 # Customer Management Backend API With Java Spring
 
-This is the public version of my customer management backend API. You can access the production environment via project link.
+This is the public version of my customer management backend API. You can access the production environment via project link. I used a free service to deploy. In that way; if you make a request, the response will come in 50-100 seconds. Please wait to test. 
 
 ## Technologies That I Used
 
